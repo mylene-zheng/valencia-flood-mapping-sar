@@ -1,0 +1,19 @@
+{
+ "Valencia (SNAP): U-Net post-event water vs S2 R1": {
+  "precision": 0.91,
+  "recall": 0.954,
+  "F1": 0.931,
+  "IoU": 0.872,
+  "overall_accuracy": 0.961,
+  "kappa": 0.904
+ },
+ "Valencia (SNAP): method A (Otsu) vs S2 R1, for comparison": {
+  "precision": 0.965,
+  "recall": 0.87,
+  "F1": 0.915,
+  "IoU": 0.843,
+  "overall_accuracy": 0.955,
+  "kappa": 0.884
+ },
+ "U-Net water area (km2)": 67.83
+}
